@@ -14,6 +14,7 @@ The company aims to answer key business questions:
 5. How can shipping processes be optimized?
 
 ## 📂 Datasets Used
+
 1. Purchase Data
 Contains:
 a. Product name
@@ -28,6 +29,7 @@ c. Income
 d. Country
 
 ## 🛠️ Tools & Technologies
+
 a. Python
 b. Pandas
 c. NumPy
@@ -36,22 +38,38 @@ e. Seaborn
 f. Jupyter Notebook
 
 ## 🔍 Analysis Performed
+
 📈 1. Revenue Analysis
+
 ~ Calculated total revenue using price, discount, tax, and quantity
+
 ~ Identified Top 5 revenue-generating products
+
 ~ Visualized product contribution using bar charts
+
+
 👥 2. Customer Segmentation
+
 ~ Grouped customers into age categories
+
 ~ Visualized age distribution (Histogram & Pie Chart)
+
 ~ Identified top countries by customer count
+
 ~ Analyzed geographic customer distribution
+
 🚚 3. Shipping Cost Optimization
+
 ~ Compared average shipping costs:
+
 ~ Orders delivered within 3 days
+
 ~ Orders delivered after 3 days
+
 ~ Identified inefficiencies in delivery timelines
 
 ## 📊 Key Insights
+
 1. A small number of products contribute significantly to total revenue (Pareto effect)
 2. Customer purchasing behavior varies across age groups and regions
 3. Certain countries dominate customer distribution
@@ -59,12 +77,14 @@ f. Jupyter Notebook
 5. Discounts and pricing strategies directly impact revenue generation
 
 ## 📈 Visualizations Included
+
 1. Bar charts (Top products, country distribution)
 2. Histograms (Age distribution)
 3. Pie charts (Age segmentation)
 4. Comparative plots (Shipping analysis)
 
 ## 🚀 How to Run the Project
+
 1. Clone the repository
 2. git clone https://github.com/your-username/your-repo-name.git
 3. Install dependencies
@@ -74,18 +94,21 @@ f. Jupyter Notebook
 7. Run the notebook step by step
 
 ## 📌 Recommendations
+
 1. Focus marketing efforts on top-performing products
 2. Personalize campaigns based on age and location
 3. Optimize shipping for faster deliveries to reduce costs
 4. Re-evaluate discount strategies to balance revenue and profit
    
 ## 🔮 Future Improvements
+
 1. Apply machine learning for customer segmentation (clustering)
 2. Build revenue prediction models
 3. Create an interactive dashboard (Power BI / Tableau)
 4. Perform gender-based and income-based deep analysis
    
 ## 👩‍💻 Author
+
 Shivangi Kanojia
 
 ## ⭐ Why This Project Matters
